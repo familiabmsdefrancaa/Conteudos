@@ -31,6 +31,16 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
+<name>[COLOR yellow][B]:::[COLOR orange]º|º - ANIMAÇÃO[COLOR yellow]:::[/B][/COLOR]</name>
+<thumbnail>https://vejasp.abril.com.br/wp-content/uploads/2021/06/1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/familiabmsdefrancaa/ANIMACAO/main/ANIMACAO</externallink>
+<fanart>https://vejasp.abril.com.br/wp-content/uploads/2021/06/1.jpg</fanart>
+<info>Verifique as classificações dos Filmes </info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
 <name>[COLOR yellow][B]:::[COLOR orange]º|º -CAMERAS AO VIVO PELO MUNDO[COLOR yellow]:::[/B][/COLOR]</name>
 <thumbnail>https://puretrend.com.br/wp-content/uploads/2021/06/maxresdefault-3-1024x576.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/familiabmsdefrancaa/CAMERAS-PELO-MUNDO/main/CAMERAS%20PELO%20MUNDO</externallink>
